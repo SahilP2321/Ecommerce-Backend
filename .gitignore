@@ -7,3 +7,7 @@ db.sqlite3
 .DS_Store
 staticfiles/
 media/" > .gitignorevenv/
+venv/
+.venv/
+env/
+ENV/
